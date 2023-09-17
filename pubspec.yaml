@@ -46,6 +46,7 @@ dependencies:
   buildcondition: ^0.0.4
   email_validator: ^2.1.17
   flutter_secure_storage: ^8.1.0
+  sizer: ^2.0.15
 
 dev_dependencies:
   flutter_test:

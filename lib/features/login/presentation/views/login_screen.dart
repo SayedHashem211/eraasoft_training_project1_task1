@@ -69,7 +69,7 @@ class LoginScreen extends StatelessWidget {
                     Text(
                       "Welcome Back!",
                       style: GoogleFonts.roboto(
-                          fontSize: 40, fontWeight: FontWeight.w400),
+                          fontSize: 40.sp, fontWeight: FontWeight.w400),
                       textAlign: TextAlign.center,
                     ),
                     SizedBox(
